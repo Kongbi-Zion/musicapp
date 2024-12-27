@@ -81,6 +81,7 @@ const stripePayment = async () => {
     window.open(session.url, "_blank");
   } else {
     console.log("failed");
+    console.log("failed");
   }
 };
 </script>
